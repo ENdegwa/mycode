@@ -3,7 +3,7 @@ Tracking learned code
 # mycode (Project Title)
 
 Learning python basics to help assist in developement with intranet and IOT at AM General.
-
+Learning how to version control projects with git. 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Alta3 Research | RZFeeser
    List - simple list"""
 
